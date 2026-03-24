@@ -1,0 +1,7 @@
+[project]
+name = "intelowl-poc-8"
+version = "0.1.0"
+description = "Scripts for IntelOwl idea #8 PoC (connector audit, health checks, antipatterns)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
